@@ -5,6 +5,7 @@ public class cube : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
+        Debug.Log("test");
 	
 	}
 	
